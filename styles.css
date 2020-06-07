@@ -30,6 +30,7 @@ body {
   margin: 0;
   background-color: #111111;
   color: #dddddd;
+  font-weight: 300;
 }
 
 body > * {
