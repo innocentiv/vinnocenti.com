@@ -1,4 +1,4 @@
-const PRECACHE = "precache-v2";
+const PRECACHE = "precache-v3";
 
 const PRECACHE_URLS = [
   "index.html",
@@ -7,7 +7,7 @@ const PRECACHE_URLS = [
   "images/cv.svg",
   "images/github.svg",
   "images/linkedin.svg",
-  "images/me.jpg",
+  "images/me160.jpg",
 ];
 
 self.addEventListener("install", (event) => {
