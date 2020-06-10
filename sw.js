@@ -3,7 +3,6 @@ const PRECACHE = "precache-v4";
 const PRECACHE_URLS = [
   "index.html",
   "./", // Alias for index.html
-  "styles.css",
   "images/cv.svg",
   "images/github.svg",
   "images/linkedin.svg",
